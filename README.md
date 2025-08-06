@@ -96,8 +96,9 @@
 
 <p align="center">
   <a href="https://github.com/Shandilya25" target="_blank">
-    <img src="https://img.shields.io/github/followers/Shandilya25?label=Follow%20Me&style=social"/>
+    <img src="https://img.shields.io/github/followers/Shandilya25?label=Follow%20Me&style=social" alt="GitHub Badge"/>
   </a>
+
   
   <!-- <a href="https://ohmyfork.dev" target="_blank">
     <img src="https://img.shields.io/badge/check-portfolio-pink?style=flat-square&logo=jupyter&logoColor=red"/>
