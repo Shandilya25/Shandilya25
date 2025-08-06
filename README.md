@@ -16,9 +16,6 @@
   <h5 align="center">console.log("Loopus Infinito — Begone!");</h5>
 </p>
 
-<p align="center">
-  <img src="assets/baaannerv1.png" alt="Banner"/>
-</p>
 
 
 <br>
