@@ -36,7 +36,7 @@
   
 - ⚡ Fun fact: Brain is forever a nerd.
 
-<br><br>
+
 
 <table align="center">
   <tr>
@@ -56,12 +56,12 @@
       </a>
     </td> -->
     <td>
-      <a title="LinkedIn" href="https://www.linkedin.com/in/zhravan/">
+      <a title="LinkedIn" href="https://www.linkedin.com/in/shandilya-k-764b9724b/">
         <img src="https://img.icons8.com/?size=256&id=60ZV_wYC0BM2&format=png" width="50" height="50" />
       </a>
     </td>
     <td>
-      <a title="Email" href="mailto:shravan@ohmyscript.com">
+      <a title="Email" href="mailto:shandilyad@gamil.com">
         <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
       </a>
     </td>
@@ -98,7 +98,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/shravan20" target="_blank">
+  <a href="https://github.com/Shandilya25" target="_blank">
     <img src="https://img.shields.io/github/followers/shravan20?label=Follow%20Me&style=social"/>
   </a>
   
