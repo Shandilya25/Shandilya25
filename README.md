@@ -20,7 +20,7 @@
 
 <br>
 
-- 🔭 My background in `Python`, `Java`, and `C++` is complemented by hands-on experience with tools and frameworks like `Pytorch`, `Langchain`, `Tensorflow`, `OpenCV`, `Autogen`. 
+- 🔭 My background in `Python`, `Java` is complemented by hands-on experience with tools and frameworks like `Pytorch`, `Langchain`, `Tensorflow`, `OpenCV`, `Autogen`. 
 <!-- My background in 'Python', Java, and C++ is complemented by hands-on experience with tools and frameworks like PyTorch, TensorFlow, Scikit-learn, OpenCV, LangChain, AutoGen, and LangGraph -->
   
 - 🐾 Immersing myself in the vast and evolving landscape of Data Science; I find it quite interesting in terms of problem-solving.
